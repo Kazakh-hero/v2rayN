@@ -755,7 +755,7 @@
     <value>Пользовательский DNS (если несколько делите с запятыми (,))</value>
   </data>
   <data name="TbSettingsSetUWP" xml:space="preserve">
-    <value>Set Win10 UWP Loopback</value>
+    <value>Настроить Win10 UWP Loopback</value>
   </data>
   <data name="TbSettingsSniffingEnabled" xml:space="preserve">
     <value>Включить сниффинг</value>
@@ -785,7 +785,7 @@
     <value>Включить UDP</value>
   </data>
   <data name="TbSettingsUser" xml:space="preserve">
-    <value>Auth user</value>
+    <value>Пользователь для авторизации</value>
   </data>
   <data name="TbClearSystemProxy" xml:space="preserve">
     <value>Очистить системный прокси</value>
@@ -1055,7 +1055,7 @@
     <value>Refresh Proxies</value>
   </data>
   <data name="TbAutoScrollToEnd" xml:space="preserve">
-    <value>Auto ScrollToEnd</value>
+    <value>Автопрокрутка вниз</value>
   </data>
   <data name="menuProxiesSelectActivity" xml:space="preserve">
     <value>Select active node (Enter)</value>
@@ -1091,7 +1091,7 @@
     <value>PrivateKey</value>
   </data>
   <data name="menuAddWireguardServer" xml:space="preserve">
-    <value>Add [WireGuard] server</value>
+    <value>Добавить сервер [WireGuard]</value>
   </data>
   <data name="menuProfileAutofitColumnWidth" xml:space="preserve">
     <value>Auto column width adjustment</value>
@@ -1145,7 +1145,7 @@
     <value>Sorting</value>
   </data>
   <data name="menuOpenTheFileLocation" xml:space="preserve">
-    <value>Open the storage location</value>
+    <value>Открыть папку с програмой</value>
   </data>
   <data name="NeedRebootTips" xml:space="preserve">
     <value>Successful operation. Click the settings menu to reboot the app.</value>
@@ -1172,7 +1172,7 @@
     <value>Type</value>
   </data>
   <data name="TbSettingsEnableCacheFile4Sbox" xml:space="preserve">
-    <value>Enable cache file for sing-box (ruleset files)</value>
+    <value>Включить файл кэша для sing-box (файлы набора правил)</value>
   </data>
   <data name="TbSortingUpSpeed" xml:space="preserve">
     <value>Upload Speed</value>
@@ -1205,19 +1205,19 @@
     <value>Do not change</value>
   </data>
   <data name="TbSettingsEnableFragment" xml:space="preserve">
-    <value>Enable fragment</value>
+    <value>Включить фрагментацию</value>
   </data>
   <data name="TbSettingsEnableFragmentTips" xml:space="preserve">
-    <value>Use Xray and enable non-Tun mode, which conflicts with the group previous proxy</value>
+    <value>Использует Xray и включает режим без Tun, что конфликтует с группами прошлых прокси.</value>
   </data>
   <data name="menuModeRule" xml:space="preserve">
     <value>Rule</value>
   </data>
   <data name="menuAddHttpServer" xml:space="preserve">
-    <value>Add [HTTP] server</value>
+    <value>Добавить сервер [HTTP]</value>
   </data>
   <data name="menuAddTuicServer" xml:space="preserve">
-    <value>Add [TUIC] server</value>
+    <value>Добавить сервер [TUIC]</value>
   </data>
   <data name="UpdateStandalonePackageTip" xml:space="preserve">
     <value>You are currently running a standalone package, please manually download the SelfContained.7z file to unzip and overwrite it!</value>
@@ -1283,7 +1283,7 @@
     <value>UpgradeApp does not exist</value>
   </data>
   <data name="menuAddServerViaImage" xml:space="preserve">
-    <value>Scan QR code in the image</value>
+    <value>Сканировать QR-код с картинки</value>
   </data>
   <data name="TipDisplayLog" xml:space="preserve">
     <value>Please turn off when there is an abnormal disconnection</value>
@@ -1316,7 +1316,7 @@
     <value>Install the font to the system and restart the settings</value>
   </data>
   <data name="menuAddHysteria2Server" xml:space="preserve">
-    <value>Add [Hysteria2] server</value>
+    <value>Добавить сервер [Hysteria2]</value>
   </data>
   <data name="LvWebDavPassword" xml:space="preserve">
     <value>WebDav Password</value>
@@ -1328,40 +1328,40 @@
     <value>Download Speed</value>
   </data>
   <data name="menuRemoteRestore" xml:space="preserve">
-    <value>Restore from remote (WebDAV)</value>
+    <value>Для восстановления (WebDAV)</value>
   </data>
   <data name="menuRemoteBackup" xml:space="preserve">
-    <value>Backup to remote (WebDAV)</value>
+    <value>Для бекапа (WebDAV)</value>
   </data>
   <data name="LvWebDavUserName" xml:space="preserve">
     <value>WebDav User Name</value>
   </data>
   <data name="menuLocalRestore" xml:space="preserve">
-    <value>Restore from local</value>
+    <value>Для восстановления</value>
   </data>
   <data name="menuLocalBackup" xml:space="preserve">
-    <value>Backup to local</value>
+    <value>Для бэкапа</value>
   </data>
   <data name="TbSettingsUseSystemHosts" xml:space="preserve">
     <value>Use System Hosts</value>
   </data>
   <data name="menuBackupAndRestore" xml:space="preserve">
-    <value>Backup and Restore</value>
+    <value>Бекап и восстановление</value>
   </data>
   <data name="menuLocalBackupAndRestore" xml:space="preserve">
-    <value>Local</value>
+    <value>Локальный путь</value>
   </data>
   <data name="menuExitTips" xml:space="preserve">
     <value>Are you sure to exit?</value>
   </data>
   <data name="TbSettingsHysteriaBandwidth" xml:space="preserve">
-    <value>Hysteria Max bandwidth (Up/Dw)</value>
+    <value>Максимальная пропускная способность Hysteria (от/до)</value>
   </data>
   <data name="LvWebDavUrl" xml:space="preserve">
     <value>WebDav Url</value>
   </data>
   <data name="menuRemoteBackupAndRestore" xml:space="preserve">
-    <value>Remote (WebDAV)</value>
+    <value>Удалённый путь (WebDAV)</value>
   </data>
   <data name="TbSettingsLinuxSudoPassword" xml:space="preserve">
     <value>System sudo password</value>
